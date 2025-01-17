@@ -3,7 +3,7 @@
 2024-2025 Spring Term ELE101 Course Week-3 Repo
 
 ## Installation
-First, go to the GitHub page that contains your assignments. **Download** the zip file or **clone** the repo into your system. After that extract it if necessary, then change into the folder.  
+**Download** as zip file or **clone** this repo into your system. After that extract it if necessary, then change into the folder.  
 
 We will be using **conda** to install tools necessary for the rest of the course. I prefer installing **miniconda** which is faster and it includes less packages. If you have conda (miniconda or anaconda) already installed you may skip conda installation section, jump into create an environment. 
 
