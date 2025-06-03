@@ -1,6 +1,6 @@
-# Week-3
+# ELE101
 
-2024-2025 Spring Term ELE101 Course Week-3 Repo
+ELE101 Course Installation Repo
 
 ## Installation
 **Download** as zip file or **clone** this repo into your system. After that extract it if necessary, then change into the folder.  
@@ -23,4 +23,4 @@ Run `./install.sh`. This will download and install miniforge, create an environm
 # Good Luck!
 Need help, feel free to reach me at ytregitim@gmail.com. 
 
-Wish you good luck and a good semester!
+Wish you good luck in installation!
